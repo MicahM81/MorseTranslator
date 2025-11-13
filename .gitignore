@@ -1,0 +1,19 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# PyCharm settings
+.idea/
+
+# System files
+.DS_Store
+
+# Optional: logs or temp files
+*.log
+*.tmp
